@@ -65,7 +65,7 @@ This project integrates **Azure SQL + Power BI** with a **custom SQL validation 
 ---
 ## 📂 Files
 - **Implemntation.SQL**: Core ETL + validation scripts (account rollups, rules, pivoting)
-- **Images**: Dashboard screenshots
+- **Dashboard**: Final product of dashboard
 - **Res_dashboard.pbix**: Power BI dashboard file visualizing revenue growth, assets vs liabilities, compliance, and expense ratios.
 - **Final**: Supporting Documentation
 
